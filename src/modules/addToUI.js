@@ -17,7 +17,6 @@ const addToList = () => {
 
     // <p class="text-area">${item.description}</p>
 
-
     todoList.appendChild(listItem);
 
     const checkbox = listItem.querySelector('input');
