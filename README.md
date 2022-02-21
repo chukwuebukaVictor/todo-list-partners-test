@@ -22,7 +22,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://chukwuebukavictor.github.io/Todo_List/dist)
+[Live Demo Link](https://chukwuebukavictor.github.io/todo-list-partners-test/dist)
 ## Getting Started
 
 **Follow the steps below to run this project on you local machine**
